@@ -1,0 +1,8 @@
+{
+    "uuid": "brightness-ddc@custom",
+    "name": "Brightness DDC Control",
+    "description": "Hardware brightness control via DDC/CI protocol",
+    "version": 1,
+    "shell-version": ["45", "46", "47"],
+    "url": "https://github.com/BaptisteAg/brightness-ddc-control"
+}

@@ -1,0 +1,21 @@
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build artifacts
+*.zip
+*.tar.gz
+
+# Local test files
+test/
+tmp/
